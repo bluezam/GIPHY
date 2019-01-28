@@ -1,0 +1,48 @@
+button, div, form, input {
+
+    margin: 10px;
+    
+}
+
+
+body {
+
+	background-image: url("../images/DogeHeight.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Parisienne', cursive;
+
+}
+
+label {
+
+    color: black;
+}
+
+
+
+.btn-default {
+
+    color: #000;
+    font-size: medium;
+
+}
+
+
+
+.jumbotron {
+
+    background-image: url("../images/Doge.jpg");
+    text-align: center;
+    color: black;
+    font-size: 60px;
+
+}
+
+
+img {
+
+	max-width: 250px;
+    max-height: 250px;
+    
+}
