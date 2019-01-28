@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
     
-    var displayedButtons = ["Malamute", "Husky", "Rrottweiler", "PitBull", "Australian Shepherd", "Hyena"];
+    var displayedButtons = ["Malamute", "Husky", "Samoyed", "German Shepard", "Australian Shepherd", "PitBull",  "Hyena"];
 
     function displayImg(){
 
